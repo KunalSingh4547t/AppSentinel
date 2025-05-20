@@ -1,0 +1,4 @@
+[
+  {"name": "Broken Session Handling", "severity": "High", "description": "Session tokens are not invalidated on logout."},
+  {"name": "Insecure API Call", "severity": "Medium", "description": "API endpoint does not use HTTPS."}
+]
