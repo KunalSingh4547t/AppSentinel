@@ -57,4 +57,4 @@ To enable real static analysis using MobSF:
 
 ## Credits
 
-This project was developed by [Your Name]. For questions, feature requests, or to contribute to the project, please open an issue or contact the maintainer.
+This project was developed by Kunal Singh. For questions, feature requests, or to contribute to the project, please open an issue or contact the maintainer.
